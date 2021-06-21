@@ -1,0 +1,427 @@
+body{
+    background-color: white;
+}
+.sec1{
+    padding-top: 5px;
+    padding-left:  80px;
+    padding-right: 160px;
+
+}
+.sec1a{
+    text-align: right;
+    padding-left:50px ;
+
+}
+.sec1b{
+    
+    text-align: left;
+
+}
+.sec1c{
+    text-align: right;
+    padding-top: 15px;
+
+}
+.sec1d{
+    text-align: center;
+    padding-top:15px ;
+
+}
+.sec1e{
+    text-align: left;
+    padding-top: 15px;
+
+}
+
+.fullsec{
+     color: white;
+    background-color: rgb(11, 44, 59);
+    padding-top: 100px;
+    padding-left: 200px;
+    padding-right:250px;
+    padding-bottom: 100px;
+    height:650px;
+    
+}
+.name{
+    background-color: white;
+    color: black;
+    height: 430px;
+    padding: 20px;   
+}
+
+.button{
+    background-color: rgb(23, 119, 197);
+    color: white;
+    border: none;
+    padding: 19px 186px;
+    border-radius: 2px;
+}
+
+.em{
+    padding: 15px;
+    padding-right: 330px;    
+}
+
+.fn{
+    padding: 15px;
+    padding-right: 70px;
+    
+}
+
+.ln{
+    padding: 15px;
+    padding-right: 60px;
+}
+
+h2{
+    font-size: bold;
+}
+     
+.pn{
+    padding: 15px ;
+    padding-right: 330px;
+}
+
+.python{
+    padding-top: 10px;
+    font-size: 17px;
+    font-weight: lighter;    
+}
+
+
+.floatright{
+    float: left;
+    padding-bottom:400px ;
+    padding-top: 50px;
+}
+
+.floatleft{
+    float: right;
+    padding-left: 200px;
+    padding-bottom: 1000px;
+    padding-top: 100px;
+    padding-right: 70px;
+}
+
+section{
+    color: black;
+}
+
+ .joseph{
+     width: 3cm;
+     height: 3cm;
+     border-radius: 50%;
+     
+ }   
+ .rilcen{
+     text-align: center;
+ }
+
+ .friyay{
+     color: red;
+     padding-left: 110px;
+ }
+
+ .ota{
+     color: red;
+ }
+ .brea{
+     color: red;
+     padding-left: 110px;
+ }
+
+.tech{
+    padding-right: 100px;
+    text-align: center;
+    
+}
+
+.icame{
+    padding-left: 200px;
+    text-align: center;
+
+}
+
+.jumb{
+    font-size: 19px;
+
+}
+.bootall{
+    font-size: 15px;
+    height: 600px;
+    text-align: center;
+    padding-bottom: 200px;
+    padding: 50px;
+}
+.heading{
+    text-align: center;
+}
+.seven{
+    
+    padding-left: 50px;
+    font-size: 15px;
+}
+.group{
+    width: 15cm;
+    height: 10cm;
+}
+.jumb2{
+    padding-top: 50px;
+    padding-right: 100px;
+    padding-left: 200px;
+    
+}
+.gpp{
+    background-color:rgb(32, 128, 238) ;
+    padding: 15px;
+    border: none;
+    color:white;
+    border-radius: 5px;
+}
+.experience{
+    text-align: center;
+}
+.students{
+    text-align: center;
+    height: 12cm;
+    width: 32cm;
+}
+.double{
+    padding: 50px;
+    padding-left: 180px;
+    padding-right: 140px;
+    padding-bottom: 100px;
+}
+h6{
+    font-weight: 10px;
+}
+.tandc{
+    background-image: url(../images/studio.png) ;
+    background-repeat: no-repeat;
+    background-size: 25cm;
+    height: 25cm; 
+    padding-top: 100px;
+    padding-left:100px ;
+       
+}
+.jumb3{
+    padding-left: 200px;
+    padding-top: 50px;
+    padding-right: 400px;
+    height: 25cm;   
+}
+
+h2{
+    text-align: center;
+}
+
+hr{
+    width: 50px;
+    background-color: rgb(9, 112, 207);
+    padding: 2px;
+}
+.smallsec{
+    background-color: white;
+    width: 60%;
+    padding: 30px;
+    padding-left: 40px;
+    border-radius: 20px;
+    float: right;
+    box-shadow: 10px 10px 5px rgb(161, 160, 160)
+       
+}
+
+.studentspic{
+    width: 15cm;
+    height: 15cm;
+}
+.dot{background-color: black;
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    display: inline;
+}
+.academy{
+    padding: 20px;
+    padding-left: 200px;
+    padding-right: 150px;
+
+}
+.whychoose{
+    padding: 20px;
+    padding-right: 20px;
+}
+.asa{
+    text-align: center;
+}
+.smile{
+    width: 15cm;
+    height: 10cm;
+
+}
+.career{
+    padding: 50px;
+    padding-left: 200px;
+    padding-right: 190px;
+}
+.excellent{
+    padding-top: 50px;
+}
+.frown{
+    padding-top: 50px;
+}
+.tinyblue{
+    background-color: rgb(0, 89, 255);
+    width: 25cm;
+    height: 4cm;
+    color: white;
+    padding: 40px ;
+    padding-left: 100px;
+    border-radius: 10px;
+    font-weight: 10px;
+    
+}
+.bluegpp{
+    background-color:white;
+    padding: 15px;
+    border: none;
+    color: rgb(0, 132, 255);
+    border-radius: 5px;
+    
+}
+.bluegpp1{
+    padding-top: 27px;
+
+
+}
+.jumb4{
+    padding-left: 300px;
+    
+}
+.frequently{
+    text-align: center;
+    padding-top: 50px;
+}
+.row1{
+    padding: 100px;
+    padding-left: 250px;
+    
+}
+.section8{
+    background-color: rgb(46, 135, 252);
+    padding: 100px 200px;
+    
+}
+.page81{
+    background-color: white;
+    color:black;
+    height: 19cm;
+    padding: 30px;
+    width: 20cm;
+
+
+}
+.page8a{
+    background-color: rgb(202, 46, 46);
+    color: white;
+    padding: 50px 100px;
+    width: 12cm;
+    margin-left: 40px;
+    
+
+}
+.page8b{
+    background-color:white ;
+    width: 12cm;
+    padding: 20px 50px;
+    padding-left: 60px;
+    margin-top: 20px;
+    margin-left: 40px;
+
+}
+.syr{
+    background-color:rgb(32, 128, 238) ;
+    padding: 15px;
+    width: 8cm;
+    border: none;
+    color:white;
+    border-radius: 5px;
+    padding-left: 50px;
+    padding-right: 60px;
+
+
+}
+h1{
+    font-weight: lighter;
+}
+h3{
+    font-weight: lighter;
+}
+.footer{
+    background-color: black;
+    color: white;
+    height: 7cm;
+    padding: 50px;
+    padding-right: 100px;
+    padding-left: 80px;
+
+
+}
+.techlogo{
+    width: 25px;
+}
+.eyea{
+    background-color: white;
+    padding: 15px;
+    width: 17cm;
+    border: none;
+    padding: 16px;
+    border-radius: 5px;
+
+}
+.submit{
+    background-color:rgb(0, 110, 255);
+    color: white;
+    padding: 16px;
+    border: none;
+    border-radius: 5px;
+    padding-right: 575px;
+    text-align:right ;
+    
+}
+.footer3{
+    text-align: center;
+    padding-left: 100px;
+    letter-spacing: 1px;
+    
+}
+.actuallogo{
+    width: 1cm;
+}
+
+    
+
+
+
+
+
+    
+
+
+
+
+
+    
+    
+    
+
+
+    
+
+
+
+
+    
+
+
